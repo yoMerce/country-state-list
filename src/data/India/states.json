@@ -1,0 +1,186 @@
+[{
+  "id": "AD",
+  "name": "Andhra Pradesh",
+  "tin": "37",
+  "type": "State"
+}, {
+  "id": "AR",
+  "name": "Arunachal Pradesh",
+  "tin": "12",
+  "type": "State"
+}, {
+  "id": "AS",
+  "name": "Assam",
+  "tin": "18",
+  "type": "State"
+}, {
+  "id": "BR",
+  "name": "Bihar",
+  "tin": "10",
+  "type": "State"
+}, {
+  "id": "CG",
+  "name": "Chattisgarh",
+  "tin": "22",
+  "type": "State"
+}, {
+  "id": "DL",
+  "name": "Delhi",
+  "tin": "07",
+  "type": "State"
+}, {
+  "id": "GA",
+  "name": "Goa",
+  "tin": "30",
+  "type": "State"
+}, {
+  "id": "GJ",
+  "name": "Gujarat",
+  "tin": "24",
+  "type": "State"
+}, {
+  "id": "HR",
+  "name": "Haryana",
+  "tin": "06",
+  "type": "State"
+}, {
+  "id": "HP",
+  "name": "Himachal Pradesh",
+  "tin": "02",
+  "type": "State"
+}, {
+  "id": "JK",
+  "name": "Jammu and Kashmir",
+  "tin": "01",
+  "type": "State"
+}, {
+  "id": "JH",
+  "name": "Jharkhand",
+  "tin": "20",
+  "type": "State"
+}, {
+  "id": "KA",
+  "name": "Karnataka",
+  "tin": "29",
+  "type": "State"
+}, {
+  "id": "KL",
+  "name": "Kerala",
+  "tin": "32",
+  "type": "State"
+}, {
+  "id": "LD",
+  "name": "Lakshadweep Islands",
+  "tin": "31",
+  "type": "State"
+}, {
+  "id": "MP",
+  "name": "Madhya Pradesh",
+  "tin": "23",
+  "type": "State"
+}, {
+  "id": "MH",
+  "name": "Maharashtra",
+  "tin": "27",
+  "type": "State"
+}, {
+  "id": "MN",
+  "name": "Manipur",
+  "tin": "14",
+  "type": "State"
+}, {
+  "id": "ML",
+  "name": "Meghalaya",
+  "tin": "17",
+  "type": "State"
+}, {
+  "id": "MZ",
+  "name": "Mizoram",
+  "tin": "15",
+  "type": "State"
+}, {
+  "id": "NL",
+  "name": "Nagaland",
+  "tin": "13",
+  "type": "State"
+}, {
+  "id": "OD",
+  "name": "Odisha",
+  "tin": "21",
+  "type": "State"
+}, {
+  "id": "PY",
+  "name": "Pondicherry",
+  "tin": "34",
+  "type": "State"
+}, {
+  "id": "PB",
+  "name": "Punjab",
+  "tin": "03",
+  "type": "State"
+}, {
+  "id": "RJ",
+  "name": "Rajasthan",
+  "tin": "08",
+  "type": "State"
+}, {
+  "id": "SK",
+  "name": "Sikkim",
+  "tin": "11",
+  "type": "State"
+}, {
+  "id": "TN",
+  "name": "Tamil Nadu",
+  "tin": "33",
+  "type": "State"
+}, {
+  "id": "TS",
+  "name": "Telangana",
+  "tin": "36",
+  "type": "State"
+}, {
+  "id": "TR",
+  "name": "Tripura",
+  "tin": "16",
+  "type": "State"
+}, {
+  "id": "UP",
+  "name": "Uttar Pradesh",
+  "tin": "09",
+  "type": "State"
+}, {
+  "id": "UK",
+  "name": "Uttarakhand",
+  "tin": "05",
+  "type": "State"
+}, {
+  "id": "WB",
+  "name": "West Bengal",
+  "tin": "19",
+  "type": "State"
+}, {
+  "id": "AN",
+  "name": "Andaman and Nicobar Islands",
+  "tin": "35",
+  "type": "Union Territory"
+}, {
+  "id": "CH",
+  "name": "Chandigarh",
+  "tin": "04",
+  "type": "Union Territory"
+}, {
+  "id": "DNHDD",
+  "name": "Dadra & Nagar Haveli and Daman & Diu",
+  "tin": "26",
+  "type": "Union Territory"
+}, {
+  "id": "LA",
+  "name": "Ladakh",
+  "tin": "38",
+  "type": "Union Territory"
+}, {
+  "id": "OT",
+  "name": "Other Territory",
+  "tin": "97",
+  "type": "Union Territory"
+}]
