@@ -1,0 +1,20 @@
+{
+  "name": "@yomerce/country-state-list",
+  "version": "0.0.1",
+  "description": "List country and states with additional meta data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoMerce/country-state-list.git"
+  },
+  "keywords": [],
+  "author": "yoMerce Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoMerce/country-state-list/issues"
+  },
+  "homepage": "https://github.com/yoMerce/country-state-list#readme"
+}

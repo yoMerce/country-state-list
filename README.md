@@ -1,2 +1,2 @@
 # country-state-list
-List country and states with additional meta data
+List of country and states with additional meta data
